@@ -1,16 +1,10 @@
 # ev_cpms
 
-A new Flutter project.
+This is a flutter app for Electric Vehicle chargepoint management system.
 
-## Getting Started
+## Certificate of publishing
 
-This project is a starting point for a Flutter application.
+![Alt cert](SS/67-JICR-MAY-7168-1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link to the detailed paper
+[Download PDF](https://drive.google.com/file/d/1rQ6D-Ur_LFMrd1TxSeX4akeDQ_QwTFyY/view?usp=sharing)
