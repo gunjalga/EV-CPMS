@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059854658021",
+    "project_id": "ev-cpms",
+    "storage_bucket": "ev-cpms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059854658021:android:9b8bc444199e6217cba70c",
+        "android_client_info": {
+          "package_name": "com.example.ev_cpms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059854658021-03on4sljm0e2k9bdlcp46okhlrtn020i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ev_cpms",
+            "certificate_hash": "05549f5368005411334d9b368ec9e9bc5462c2e5"
+          }
+        },
+        {
+          "client_id": "1059854658021-1rjpkrjk98cflord2r7spqutq4qhibkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94awy0gKImD9bKg7bCg4rjNZmP_3xu8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059854658021-1rjpkrjk98cflord2r7spqutq4qhibkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
